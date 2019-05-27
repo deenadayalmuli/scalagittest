@@ -7,6 +7,8 @@ public class Testgit {
 
 		System.out.println("my test");
 
+		System.out.println("git test");
+
 	}
 
 }
